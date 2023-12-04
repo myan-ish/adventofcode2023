@@ -47,6 +47,10 @@ def get_sum(lines):
 
     number_of_lines = len(lines)
 
+    for index in range(number_of_lines):
+        get_special_objs = special_pos_dict.keys().strip()
+
+        for key, value in special_pos_dict
     
     
 
